@@ -55,6 +55,8 @@ public class Solution7 {
     public String smallestStringWithSwaps(String s, List<List<Integer>> pairs) {
 
         if (pairs.isEmpty()) {
+
+
             return s;
         }
 
