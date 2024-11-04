@@ -66,7 +66,7 @@ public class L2022211869_7_Test {
     @Test
     public void testMultipleCharactersWithSwap() {
         List<List<Integer>> pairs = List.of(List.of(0, 3), List.of(1, 2));
-        assertEquals("badc", solution.smallestStringWithSwaps("dcab", pairs));
+        assertEquals("bacd", solution.smallestStringWithSwaps("dcab", pairs));
     }
 
     // 测试多个字符的字符串，复杂交换
