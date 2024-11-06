@@ -54,6 +54,8 @@ public class L2022211869_7_Test {
         assertEquals("abcd", solution.smallestStringWithSwaps("abcd", List.of()));
     }
 
+
+
     // 测试多个字符的字符串，有交换
     /**
      * 测试目的：
